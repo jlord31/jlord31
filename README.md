@@ -1,4 +1,11 @@
-## 💫 About Me:
+## 👨‍💻 About Me  
+
+Hello there! I'm a **passionate software developer** with expertise in both backend and frontend technologies, content management, and AI-powered solutions. My journey in tech revolves around building **efficient, scalable, and user-friendly applications** that make a difference.  
+
+### 📬 Let's Connect!  
+- 🔗 [GitHub](https://github.com/jlord31)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/joseph-adepoju-876574206)  
+- 📫 Feel free to reach out via **EMAIL** @adepoju97@gmail.com for collaboration opportunities!  
 
 <!--
 **jlord31/jlord31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,5 +39,10 @@ Here are some ideas to get you started:
 ### 🔹 Database Management
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 
