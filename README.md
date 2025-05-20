@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me  
 
-Hello there! I'm a **passionate software developer** with expertise in both backend and frontend technologies, content management, and AI-powered solutions. My journey in tech revolves around building **efficient, scalable, and user-friendly applications** that make a difference.  
+Hello there! I'm a **passionate Software & AI Engineer** with expertise in both backend and frontend technologies, content management, and AI-powered solutions. My journey in tech revolves around building **efficient, scalable, and user-friendly applications** that make a difference.  
 
 ### 📬 Let's Connect!  
 - 🔗 [GitHub](https://github.com/jlord31)  
