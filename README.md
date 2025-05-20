@@ -5,7 +5,7 @@ Hello there! I'm a **passionate software developer** with expertise in both back
 ### 📬 Let's Connect!  
 - 🔗 [GitHub](https://github.com/jlord31)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/joseph-adepoju-876574206)  
-- 📫 Feel free to reach out via **EMAIL** @adepoju97@gmail.com for collaboration opportunities!  
+- 📫 Feel free to reach out via **EMAIL** @ adepoju97@gmail.com for collaboration opportunities!  
 
 <!--
 **jlord31/jlord31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlord31&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlord31&layout=compact&theme=radical)
 
 
