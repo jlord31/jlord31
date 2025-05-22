@@ -5,7 +5,7 @@ Hello there! I'm a **passionate Software & AI Engineer** with expertise in both 
 ### 📬 Let's Connect!  
 - 🔗 [GitHub](https://github.com/jlord31)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/joseph-adepoju-876574206)  
-- 📫 Feel free to reach out via **EMAIL** @ adepoju97@gmail.com for collaboration opportunities!  
+- 📫 Feel free to reach out via **EMAIL** @ JoeHardey@proton.me for collaboration opportunities!  
 
 <!--
 **jlord31/jlord31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
