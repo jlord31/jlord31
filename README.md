@@ -39,7 +39,12 @@ Here are some ideas to get you started:
 ### 🛢️ Database Management
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
----
-
+## My Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlord31&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jlord31&theme=radical)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlord31&layout=compact&theme=radical)](https://github.com/jlord31)
+
+
 
