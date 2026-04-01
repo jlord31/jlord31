@@ -3,7 +3,7 @@
 Hello there! I'm a **passionate Software & AI Engineer** with expertise in both backend and frontend technologies, content management, and AI-powered solutions. My journey in tech revolves around building **efficient, scalable, and user-friendly applications** that make a difference.  
 
 ### 📬 Let's Connect!  
-- 🔗 [GitHub](https://github.com/jlord31)  
+- 🔗 [Portfolio](https://joe-portfolio-eight.vercel.app/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/joseph-adepoju-876574206)  
 - 📫 Feel free to reach out via **EMAIL** @ JoeHardey@proton.me for collaboration opportunities!  
 
@@ -21,6 +21,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Currently Focused On:
+- AI & Autonomous Agents
+- RAG Pipelines & Vector Search
+- Workflow Automation
+- Full‑Stack SaaS Development
+- Web Scraping
 
 ## 🖥️ Tech Stack
 
