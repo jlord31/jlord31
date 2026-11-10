@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me  
 
-Hello there! I'm a **passionate Software & AI Engineer** with expertise in both backend and frontend technologies, content management, and AI-powered solutions. My journey in tech revolves around building **efficient, scalable, and user-friendly applications** that make a difference.  
+Hello there! I'm a **passionate Software & AI Engineer** with expertise in full-stack development, intelligent systems, and cloud-powered solutions. My journey in tech revolves around building **efficient, scalable, and user-friendly applications** that solve real-world problems and make a meaningful difference.
 
 ### 📬 Let's Connect!  
 - 🔗 [Portfolio](https://hello-joe.dev/)  
@@ -24,10 +24,12 @@ Here are some ideas to get you started:
 
 ### Currently Focused On:
 - AI & Autonomous Agents
-- RAG Pipelines & Vector Search
-- Workflow Automation
+- Generative AI, RAG Pipelines & Vector Search
+- LLM Evaluation & AI Integrations
+- Workflow Automation & Intelligent Systems
 - Full‑Stack SaaS Development
-- Web Scraping
+- Web Scraping & Data Engineering
+
 
 ## 🖥️ Tech Stack
 
@@ -45,10 +47,25 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 
 ### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Dokku](https://img.shields.io/badge/Dokku-0080FF?style=for-the-badge&logo=dokku&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
 
 ### 🛢️ Database Management
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
+
+### 📡 Messaging & Event Streaming
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ## My Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jlord31&show_icons=true&theme=radical)
